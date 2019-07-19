@@ -1,0 +1,41 @@
+
+INPUT-UNITS     MM
+
+WHEEL     1
+
+LINE          0.1016            D39
+LINE          0.1524            D40
+LINE             0.2            D36
+LINE           0.203            D37
+LINE          0.2032            D41
+LINE           0.254            D38
+LINE           0.381            D44
+LINE           0.382            D43
+LINE           0.457            D27
+LINE           0.635            D42
+LINE             1.2            D14
+CIRCLE          0.61            D19
+CIRCLE         0.762            D17
+CIRCLE         1.118            D20
+CIRCLE         1.321            D21
+CIRCLE         1.575            D23
+SQUARE         1.321   0.00000            D22
+SQUARE         1.575   0.00000            D24
+RECTANGLE        0.4       1.7   0.00000  D12
+RECTANGLE      0.457     1.778   0.00000  D26
+RECTANGLE        1.1      1.72   0.00000  D10
+RECTANGLE       1.27    1.6002   0.00000  D30
+RECTANGLE       1.27    2.2098   0.00000  D34
+RECTANGLE      1.397    1.7272   0.00000  D32
+RECTANGLE     1.6002      1.27   0.00000  D31
+RECTANGLE        1.7       0.4   0.00000  D13
+RECTANGLE       1.72       1.1   0.00000  D11
+RECTANGLE     1.7272     1.397   0.00000  D33
+RECTANGLE      1.778     0.457   0.00000  D25
+RECTANGLE     2.2098      1.27   0.00000  D35
+OBLONG         0.457     1.778   0.00000  D29
+OBLONG           1.2       1.9   0.00000  D15
+OBLONG         1.778     0.457   0.00000  D28
+OBLONG           1.9       1.2   0.00000  D16
+FLASH     AB00                 0.00000  D18
+

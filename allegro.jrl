@@ -1,0 +1,319 @@
+\t (19:58:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (19:58:01)     Journal start - Fri Jul 19 12:04:49 2019
+\t (19:58:01)         Host=DESKTOP-0CCQGI6 User=user Pid=6564 CPUs=4
+\t (19:58:01) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\WORK\AVRUSB500\allegro\AVRUSB500.brd
+\t (19:58:01) 
+\d (19:58:01) Design opened: C:/Users/user/Desktop/work/avrUSB500/allegro/AVRUSB500kkk1111.brd
+\i (19:58:02) generaledit 
+\i (19:58:57) enved 
+\i (19:58:58) generaledit 
+\i (19:59:01) setwindow form.prfedit
+\i (19:59:01) FORM prfedit cancel  
+\i (20:12:22) setwindow pcb
+\i (20:12:22) artwork 
+\i (20:12:28) setwindow form.film_control
+\i (20:12:28) FORM film_control database_check NO 
+\i (20:12:28) FORM film_control create  
+\w (20:12:28) No film records selected.
+\i (20:12:33) FORM film_control create  
+\w (20:12:33) No film records selected.
+\i (20:12:34) FORM film_control create  
+\w (20:12:34) No film records selected.
+\i (20:12:35) FORM film_control create  
+\w (20:12:35) No film records selected.
+\i (20:12:35) FORM film_control create  
+\w (20:12:35) No film records selected.
+\i (20:12:37) FORM film_control database_check YES 
+\i (20:12:38) FORM film_control create  
+\w (20:12:38) No film records selected.
+\i (20:12:48) FORM film_control create  
+\w (20:12:48) No film records selected.
+\i (20:12:49) FORM film_control create  
+\w (20:12:49) No film records selected.
+\i (20:12:49) FORM film_control create  
+\w (20:12:49) No film records selected.
+\i (20:12:50) FORM film_control create  
+\w (20:12:50) No film records selected.
+\i (20:12:50) FORM film_control create  
+\w (20:12:50) No film records selected.
+\i (20:12:50) FORM film_control create  
+\w (20:12:50) No film records selected.
+\i (20:12:50) FORM film_control create  
+\w (20:12:50) No film records selected.
+\i (20:12:54) FORM film_control general_parameters  
+\i (20:12:57) FORM film_control film_control  
+\i (20:12:58) FORM film_control domain_setting  
+\i (20:13:00) setwindow form.film_domain
+\i (20:13:00) FORM film_domain cancel  
+\i (20:13:02) setwindow form.film_control
+\i (20:13:02) FORM film_control create  
+\w (20:13:02) No film records selected.
+\i (20:13:06) FORM film_control create  
+\w (20:13:06) No film records selected.
+\i (20:13:10) FORM film_control load  
+\i (20:13:29) fillin "menu_cancel"
+\i (20:13:30) FORM film_control cancel  
+\i (20:13:30) setwindow pcb
+\i (20:13:30) generaledit 
+\i (20:13:34) ncdrill legend 
+   (20:13:35) Loading mfg.cxt 
+\i (20:13:37) setwindow form.nc_drilllegend
+\i (20:13:37) FORM nc_drilllegend done  
+   (20:13:37) Loading axlcore.cxt 
+\i (20:13:38) setwindow pcb
+\i (20:13:38) zoom out 1 
+\i (20:13:38) setwindow pcb
+\i (20:13:38) zoom out 20.9371 8.5150
+\i (20:13:38) trapsize 6538
+\i (20:13:44) zoom out 1 
+\i (20:13:44) setwindow pcb
+\i (20:13:44) zoom out 26.4291 13.6146
+\i (20:13:44) trapsize 13076
+\i (20:13:59) pick grid 4.1345 98.0199
+\t (20:13:59) last pick:  5.0800 99.0600
+\t (20:13:59) NC Drill Legend generation successful
+\i (20:13:59) generaledit 
+\i (20:14:01) zoom in 1 
+\i (20:14:01) setwindow pcb
+\i (20:14:01) zoom in 62.7148 62.4533
+\i (20:14:01) trapsize 6538
+\i (20:14:04) zoom out 1 
+\i (20:14:04) setwindow pcb
+\i (20:14:04) zoom out 62.3225 62.7149
+\i (20:14:04) trapsize 13076
+\i (20:14:05) prepopup 65.8531 84.1594
+\i (20:14:06) pick grid 77.8830 99.8506
+\t (20:14:06) last pick:  78.7400 99.0600
+\i (20:14:07) zoom in 1 
+\i (20:14:07) setwindow pcb
+\i (20:14:07) zoom in 65.3300 73.4371
+\i (20:14:07) trapsize 6538
+\i (20:14:08) zoom in 1 
+\i (20:14:08) setwindow pcb
+\i (20:14:08) zoom in 63.6301 72.3911
+\i (20:14:08) trapsize 3269
+\i (20:14:09) roam start
+\i (20:14:09) roam x -16
+\i (20:14:09) roam x -128
+\i (20:14:09) roam y 64
+\i (20:14:09) roam x -80
+\i (20:14:09) roam y 32
+\i (20:14:09) roam end
+\i (20:14:09) roam start
+\i (20:14:10) roam x -32
+\i (20:14:10) roam y 32
+\i (20:14:10) roam x -16
+\i (20:14:10) roam x -16
+\i (20:14:10) roam y 16
+\i (20:14:10) roam x -16
+\i (20:14:10) roam x -32
+\i (20:14:10) roam y 144
+\i (20:14:10) roam x -64
+\i (20:14:10) roam y 208
+\i (20:14:10) roam x -64
+\i (20:14:10) roam y 160
+\i (20:14:10) roam x -32
+\i (20:14:10) roam y 112
+\i (20:14:11) roam x -48
+\i (20:14:11) roam x -224
+\i (20:14:11) roam y -96
+\i (20:14:11) roam y -96
+\i (20:14:11) roam y -16
+\i (20:14:11) roam x 48
+\i (20:14:11) roam x 96
+\i (20:14:11) roam y 16
+\i (20:14:11) roam x 64
+\i (20:14:11) roam x 16
+\i (20:14:11) roam x 96
+\i (20:14:11) roam y 16
+\i (20:14:12) roam x 32
+\i (20:14:12) roam y 16
+\i (20:14:12) roam x -16
+\i (20:14:12) roam x -16
+\i (20:14:13) roam x -16
+\i (20:14:13) roam end
+\i (20:14:13) zoom out 1 
+\i (20:14:13) setwindow pcb
+\i (20:14:13) zoom out 30.0903 26.8213
+\i (20:14:13) trapsize 6538
+\i (20:14:21) prmed 
+\i (20:14:22) setwindow form.prmedit
+\i (20:14:22) FORM prmedit cancel  
+\i (20:14:22) setwindow pcb
+\i (20:14:22) generaledit 
+\i (20:14:32) color192 
+\i (20:14:32) setwindow cvf.dialog
+\i (20:14:32) cvf layer_mode
+\i (20:14:32) setwindow pcb
+\i (20:14:32) generaledit 
+\i (20:14:49) setwindow cvf.dialog
+\i (20:14:49) cvf layers_visible manufacturing/nclegend-1-2 FALSE
+\i (20:14:50) cvf layers_visible manufacturing/nclegend-1-2 TRUE
+\i (20:14:55) cvf global_invisible
+\i (20:15:16) cvf layer_tree_item 'Board Geometry'
+\i (20:15:19) cvf layers_visible board_geometry/outline TRUE
+\i (20:15:22) cvf layer_tree_item 'Manufacturing'
+\i (20:15:28) cvf layers_visible manufacturing/nclegend-1-2 TRUE
+\i (20:15:32) cvf apply
+\i (20:16:24) setwindow pcb
+\i (20:16:24) artwork 
+\i (20:16:26) setwindow form.film_control
+\i (20:16:26) FORM film_control filmtree  DrillDeaw 
+\i (20:16:28) FORM film_control filmtree popup Cut DrillDeaw 
+\i (20:16:29) FORM film_control load  
+\i (20:16:31) fillin "menu_cancel"
+\i (20:16:33) FORM film_control filmtree popup Add SilkB 
+\i (20:16:51) fillin "DrilDraw"
+\i (20:21:04) FORM film_control create  
+\w (20:21:04) No film records selected.
+\i (20:21:14) FORM film_control ok  
+\i (20:21:14) setwindow pcb
+\i (20:21:14) generaledit 
+\i (20:21:23) nctape_full 
+\i (20:22:03) setwindow form.nc_drill
+\i (20:22:03) FORM nc_drill browse  
+\i (20:22:08) fillin "menu_cancel"
+\i (20:22:40) FORM nc_drill repeat_codes NO 
+\i (20:23:07) FORM nc_drill execute  
+\w (20:23:07) WARNING(SPMHMF-269): Design contains slot holes that can not be drilled. They can be processed by NC Route instead.
+\t (20:23:07) Starting Generating NC Drill...
+\e (20:23:08) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
+\e (20:23:09) A problem occurred, see the logfile (using Viewlog).
+\i (20:23:19) setwindow text
+\i (20:23:19) close 
+\i (20:23:31) setwindow pcb
+\i (20:23:31) add rarc 
+\t (20:23:32) Pick arc center point.
+\i (20:23:33) prepopup -2.3380 73.8949
+\i (20:23:34) done 
+\i (20:23:34) generaledit 
+\i (20:23:37) color192 
+\i (20:23:37) setwindow cvf.dialog
+\i (20:23:37) cvf layer_mode
+\i (20:23:37) setwindow pcb
+\i (20:23:37) generaledit 
+\i (20:23:42) prmed 
+\i (20:23:44) setwindow form.prmedit
+\i (20:23:44) FORM prmedit design  
+\i (20:23:44) FORM prmedit display  
+\i (20:23:47) FORM prmedit text  
+\i (20:23:48) FORM prmedit shapes  
+\i (20:23:49) FORM prmedit route  
+\i (20:23:50) FORM prmedit mfg_applications  
+\i (20:23:52) FORM prmedit route  
+\i (20:23:54) FORM prmedit cancel  
+\i (20:23:54) setwindow pcb
+\i (20:23:54) generaledit 
+\i (20:24:04) enved 
+\i (20:24:05) generaledit 
+\i (20:27:26) setwindow form.prfedit
+\i (20:27:26) FORM prfedit treelist  Display 
+\i (20:27:26) FORM prfedit treelist  Drawing 
+\i (20:27:27) FORM prfedit treelist  File_management 
+\i (20:27:28) FORM prfedit treelist  My_favorites 
+\i (20:27:29) FORM prfedit treelist  Display 
+\i (20:27:30) FORM prfedit treelist  Drawing 
+\i (20:27:30) FORM prfedit treelist  Drc 
+\i (20:27:31) FORM prfedit treelist  File_management 
+\i (20:27:32) FORM prfedit treelist  Ic_packaging 
+\i (20:27:32) FORM prfedit treelist  Interfaces 
+\i (20:27:33) FORM prfedit treelist  Interactive 
+\i (20:27:34) FORM prfedit treelist  Interfaces 
+\i (20:27:34) FORM prfedit treelist  Logic 
+\i (20:27:35) FORM prfedit treelist  Manufacture 
+\i (20:27:36) FORM prfedit treelist  Obsolete 
+\i (20:27:36) FORM prfedit treelist  Paths 
+\i (20:27:37) FORM prfedit treelist  Placement 
+\i (20:27:37) FORM prfedit treelist  Route 
+\i (20:27:38) FORM prfedit treelist  Shapes 
+\i (20:27:38) FORM prfedit treelist  Signal_analysis 
+\i (20:27:39) FORM prfedit treelist  Skill 
+\i (20:27:40) FORM prfedit treelist  Ui 
+\i (20:27:41) FORM prfedit treelist  Unsupported 
+\i (20:27:58) FORM prfedit treelist  File_management 
+\i (20:28:01) FORM prfedit treelist  Output_dir File_management 
+\i (20:28:30) FORM prfedit ads_sdart gerb 
+\i (20:28:32) FORM prfedit ads_sdplot v 
+\i (20:28:36) FORM prfedit ads_sdart gerbv 
+\i (20:28:37) FORM prfedit ads_sdplot  
+\i (20:28:38) FORM prfedit apply  
+\i (20:28:41) FORM prfedit done  
+\i (20:29:10) setwindow pcb
+\i (20:29:10) artwork 
+\i (20:29:12) setwindow form.film_control
+\i (20:29:12) FORM film_control create  
+\w (20:29:12) No film records selected.
+\i (20:29:38) FORM film_control create  
+\w (20:29:38) No film records selected.
+\i (20:29:40) FORM film_control database_check NO 
+\i (20:29:42) FORM film_control create  
+\w (20:29:42) No film records selected.
+\i (20:33:08) FORM film_control ok  
+\i (20:33:09) setwindow pcb
+\i (20:33:09) generaledit 
+\i (20:33:17) nctape_full 
+\i (20:33:19) pick grid 46.4353 22.3756
+\t (20:33:19) last pick:  45.7200 22.8600
+\i (20:33:25) setwindow form.nc_drill
+\i (20:33:25) FORM nc_drill parameters  
+\i (20:33:33) setwindow form.nc_parameters
+\i (20:33:33) FORM nc_parameters integer_places 5 
+\i (20:33:33) FORM nc_parameters done  
+\i (20:33:37) setwindow form.nc_drill
+\i (20:33:37) FORM nc_drill execute  
+\w (20:33:37) WARNING(SPMHMF-269): Design contains slot holes that can not be drilled. They can be processed by NC Route instead.
+\t (20:33:37) Starting Generating NC Drill...
+\i (20:33:44) FORM nc_drill close  
+\i (20:33:45) setwindow pcb
+\i (20:33:45) generaledit 
+\i (20:33:57) artwork 
+\i (20:33:59) setwindow form.film_control
+\i (20:33:59) FORM film_control general_parameters  
+\i (20:34:06) FORM film_control format_int_places 5 
+\i (20:34:06) FORM film_control ok  
+\i (20:34:06) setwindow pcb
+\i (20:34:06) generaledit 
+\i (20:35:24) artwork 
+\i (20:35:44) setwindow form.film_control
+\i (20:35:44) FORM film_control apertures  
+\i (20:39:24) setwindow form.apt_wheels
+\i (20:39:24) FORM apt_wheels 1 edit  
+\i (20:40:21) setwindow form.apt_stations
+\i (20:40:21) FORM apt_stations auto 'Without Rotation' 
+\i (20:40:30) FORM apt_stations apt_done  
+\i (20:40:32) setwindow form.apt_wheels
+\i (20:40:32) FORM apt_wheels done  
+\t (20:40:32) Saving aperture: C:/Users/user/Desktop/work/avrUSB500/allegro/gerbv/art_aper.txt
+\i (20:40:35) setwindow form.film_control
+\i (20:40:35) FORM film_control create  
+\w (20:40:35) No film records selected.
+\i (20:40:42) FORM film_control create  
+\w (20:40:42) No film records selected.
+\i (20:40:42) FORM film_control create  
+\w (20:40:42) No film records selected.
+\i (20:40:46) FORM film_control general_parameters  
+\i (20:40:48) FORM film_control film_control  
+\i (20:40:52) FORM film_control select_all  
+\i (20:40:53) FORM film_control create  
+\t (20:40:53) Starting Create artwork films...
+\w (20:40:54) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (20:40:55) Artwork generated with warnings.
+\i (20:40:58) FORM film_control general_parameters  
+\i (20:40:59) FORM film_control gerber_6x00 YES 
+\w (20:40:59) Artwork output type (GERBER6X00) does not match the format used in dynamic shapes parameters (GERBER_RS274X). Use Global shape parameter dialog, tab Void Controls to change format type.
+\i (20:41:07) fillin confirm
+\i (20:41:09) FORM film_control gerber_rs274x YES 
+\i (20:41:46) FORM film_control ok  
+\i (20:41:46) setwindow pcb
+\i (20:41:46) generaledit 
+\i (20:41:58) artwork 
+\i (22:04:28) setwindow form.film_control
+\i (22:04:28) FORM film_control ok  
+\i (22:04:28) setwindow pcb
+\i (22:04:28) generaledit 
+\i (22:04:33) setwindow text
+\i (22:04:33) close 
+\i (22:04:34) setwindow cvf.dialog
+\i (22:04:34) cvf cancel
+\i (22:04:37) setwindow pcb
+\i (22:04
