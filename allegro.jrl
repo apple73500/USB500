@@ -316,4 +316,10 @@
 \i (22:04:34) setwindow cvf.dialog
 \i (22:04:34) cvf cancel
 \i (22:04:37) setwindow pcb
-\i (22:04
+\i (22:04:37) save_as 
+\i (22:04:41) fillin "menu_cancel"
+\i (22:04:41) generaledit 
+\i (115:36:05) exit 
+\e (115:36:05) Do you want to save the changes you made to AVRUSB500kkk1111.brd?
+\i (115:36:08) fillin yes 
+\t (115:36:10)     Journal end - Tue Jul 23 11:42:58 2019
